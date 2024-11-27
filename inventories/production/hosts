@@ -3,8 +3,4 @@
 51.144.175.30
 
 [linux]
-host1 ansible_host=172.26.84.81
-
-[linux:vars]
-ansible_user=vagrant
-#ansible_ssh_pass=vagrant
+host1 ansible_host=192.168.18.64
